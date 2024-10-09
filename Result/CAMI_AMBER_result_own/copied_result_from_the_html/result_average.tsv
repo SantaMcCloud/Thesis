@@ -1,0 +1,6 @@
+Tool	Purity (bp)	Completeness (bp)	Rand index (bp)	Adjusted Rand index (bp)	Percentage of binned bp
+Gold standard	1.0	1.0	1.0	1.0	1.0
+MetaBat2_GTDB	0.605	0.307	0.957	0.3	0.333
+CONCOCT_GTDB	0.538	0.36	0.983	0.398	0.436
+SemiBin_GTDB	0.898	0.247	0.997	0.872	0.271
+DAS Tool_GTDB	0.953	0.201	0.998	0.944	0.205
