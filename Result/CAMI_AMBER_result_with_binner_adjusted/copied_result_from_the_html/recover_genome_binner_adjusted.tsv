@@ -1,0 +1,101 @@
+Sample	Tool	Contamination	> 50% completeness	> 70% completeness	> 90% completeness
+sample_0	CONCOCT_GTDB	< 10%	31	22	12
+sample_0	CONCOCT_GTDB	< 5%	23	18	8
+sample_0	DAS Tool_GTDB	< 10%	54	51	38
+sample_0	DAS Tool_GTDB	< 5%	49	48	36
+sample_0	Gold standard	< 10%	589	589	589
+sample_0	Gold standard	< 5%	589	589	589
+sample_0	MetaBat2_GTDB	< 10%	38	34	24
+sample_0	MetaBat2_GTDB	< 5%	37	33	24
+sample_0	SemiBin_GTDB	< 10%	59	50	38
+sample_0	SemiBin_GTDB	< 5%	57	49	38
+sample_1	CONCOCT_GTDB	< 10%	31	21	11
+sample_1	CONCOCT_GTDB	< 5%	23	16	8
+sample_1	DAS Tool_GTDB	< 10%	58	56	40
+sample_1	DAS Tool_GTDB	< 5%	53	51	39
+sample_1	Gold standard	< 10%	620	620	620
+sample_1	Gold standard	< 5%	620	620	620
+sample_1	MetaBat2_GTDB	< 10%	47	40	31
+sample_1	MetaBat2_GTDB	< 5%	45	38	31
+sample_1	SemiBin_GTDB	< 10%	66	59	45
+sample_1	SemiBin_GTDB	< 5%	61	57	44
+sample_2	CONCOCT_GTDB	< 10%	27	22	11
+sample_2	CONCOCT_GTDB	< 5%	22	19	10
+sample_2	DAS Tool_GTDB	< 10%	55	48	31
+sample_2	DAS Tool_GTDB	< 5%	48	42	28
+sample_2	Gold standard	< 10%	600	600	600
+sample_2	Gold standard	< 5%	600	600	600
+sample_2	MetaBat2_GTDB	< 10%	44	38	29
+sample_2	MetaBat2_GTDB	< 5%	41	36	28
+sample_2	SemiBin_GTDB	< 10%	58	44	35
+sample_2	SemiBin_GTDB	< 5%	55	41	32
+sample_3	CONCOCT_GTDB	< 10%	28	17	12
+sample_3	CONCOCT_GTDB	< 5%	22	13	9
+sample_3	DAS Tool_GTDB	< 10%	51	48	37
+sample_3	DAS Tool_GTDB	< 5%	45	44	34
+sample_3	Gold standard	< 10%	792	792	792
+sample_3	Gold standard	< 5%	792	792	792
+sample_3	MetaBat2_GTDB	< 10%	42	37	28
+sample_3	MetaBat2_GTDB	< 5%	40	35	26
+sample_3	SemiBin_GTDB	< 10%	57	53	36
+sample_3	SemiBin_GTDB	< 5%	53	49	33
+sample_4	CONCOCT_GTDB	< 10%	25	19	14
+sample_4	CONCOCT_GTDB	< 5%	22	17	12
+sample_4	DAS Tool_GTDB	< 10%	50	48	41
+sample_4	DAS Tool_GTDB	< 5%	47	45	39
+sample_4	Gold standard	< 10%	581	581	581
+sample_4	Gold standard	< 5%	581	581	581
+sample_4	MetaBat2_GTDB	< 10%	45	42	30
+sample_4	MetaBat2_GTDB	< 5%	41	38	30
+sample_4	SemiBin_GTDB	< 10%	55	51	43
+sample_4	SemiBin_GTDB	< 5%	53	50	42
+sample_5	CONCOCT_GTDB	< 10%	20	14	7
+sample_5	CONCOCT_GTDB	< 5%	16	12	6
+sample_5	DAS Tool_GTDB	< 10%	51	50	39
+sample_5	DAS Tool_GTDB	< 5%	46	46	37
+sample_5	Gold standard	< 10%	660	660	660
+sample_5	Gold standard	< 5%	660	660	660
+sample_5	MetaBat2_GTDB	< 10%	39	35	28
+sample_5	MetaBat2_GTDB	< 5%	34	31	26
+sample_5	SemiBin_GTDB	< 10%	55	47	39
+sample_5	SemiBin_GTDB	< 5%	50	45	37
+sample_6	CONCOCT_GTDB	< 10%	20	15	9
+sample_6	CONCOCT_GTDB	< 5%	18	15	9
+sample_6	DAS Tool_GTDB	< 10%	55	52	40
+sample_6	DAS Tool_GTDB	< 5%	51	50	39
+sample_6	Gold standard	< 10%	665	665	665
+sample_6	Gold standard	< 5%	665	665	665
+sample_6	MetaBat2_GTDB	< 10%	45	39	31
+sample_6	MetaBat2_GTDB	< 5%	44	38	31
+sample_6	SemiBin_GTDB	< 10%	71	54	40
+sample_6	SemiBin_GTDB	< 5%	64	50	39
+sample_7	CONCOCT_GTDB	< 10%	23	16	12
+sample_7	CONCOCT_GTDB	< 5%	20	15	12
+sample_7	DAS Tool_GTDB	< 10%	55	50	40
+sample_7	DAS Tool_GTDB	< 5%	52	48	38
+sample_7	Gold standard	< 10%	590	590	590
+sample_7	Gold standard	< 5%	590	590	590
+sample_7	MetaBat2_GTDB	< 10%	48	40	28
+sample_7	MetaBat2_GTDB	< 5%	45	38	28
+sample_7	SemiBin_GTDB	< 10%	62	55	42
+sample_7	SemiBin_GTDB	< 5%	60	54	41
+sample_8	CONCOCT_GTDB	< 10%	29	19	8
+sample_8	CONCOCT_GTDB	< 5%	24	17	7
+sample_8	DAS Tool_GTDB	< 10%	40	37	27
+sample_8	DAS Tool_GTDB	< 5%	38	35	27
+sample_8	Gold standard	< 10%	704	704	704
+sample_8	Gold standard	< 5%	704	704	704
+sample_8	MetaBat2_GTDB	< 10%	34	28	22
+sample_8	MetaBat2_GTDB	< 5%	31	27	22
+sample_8	SemiBin_GTDB	< 10%	46	34	26
+sample_8	SemiBin_GTDB	< 5%	40	31	25
+sample_9	CONCOCT_GTDB	< 10%	19	14	9
+sample_9	CONCOCT_GTDB	< 5%	17	12	9
+sample_9	DAS Tool_GTDB	< 10%	58	53	41
+sample_9	DAS Tool_GTDB	< 5%	54	49	39
+sample_9	Gold standard	< 10%	558	558	558
+sample_9	Gold standard	< 5%	558	558	558
+sample_9	MetaBat2_GTDB	< 10%	50	43	30
+sample_9	MetaBat2_GTDB	< 5%	46	39	27
+sample_9	SemiBin_GTDB	< 10%	62	54	39
+sample_9	SemiBin_GTDB	< 5%	60	53	38
