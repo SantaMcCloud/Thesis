@@ -18,12 +18,12 @@ Links:
 
 - [Main workflow](https://usegalaxy.eu/u/santinof/w/mags-taxonomic-binning-evaluation)
 - [GTDB-Tk subworkflow](https://usegalaxy.eu/u/santinof/w/gtdb-tk-subworkflow)
-- [Marine dataset (default setting not pooled)](https://usegalaxy.eu/u/santinof/h/marine-dataset-default-setting-not-pooled)(&nbsp;)[Repository](Result/CAMI_AMBER_result_own)
-- [Marine dataset (DAS Tool high score)](https://usegalaxy.eu/u/santinof/h/marine-dataset-das-tool-adjusted-high-score-threshold)(&nbsp;)[Repository](Result/CAMI_AMBER_result_with_das_tool_high_treshold)
-- [Marine dataset (DAS Tool low score)](https://usegalaxy.eu/u/santinof/h/marine-dataset-das-tool-adjusted-low-score-threshold)(&nbsp;)[Repository](Result/CAMI_AMBER_result_with_das_tool_low_treshold)
-- [Marine dataset (Binner adjusted)](https://usegalaxy.eu/u/santinof/h/marine-dataset-binner-adjusted)(&nbsp;)[Repository](Result/CAMI_AMBER_result_with_binner_adjusted)
-- [Marine dataset (default setting pooled)](https://usegalaxy.eu/u/santinof/h/marine-dataset-default-setting-pooled)(&nbsp;)[Repository](Result/CAMI_AMBER_result_pooled_dataset)
-- [CAMI Result for marine dataset](https://usegalaxy.eu/u/santinof/h/cami-marine-dataset-eval)(&nbsp;)[Repository](Result/CAMI_AMBER_result_cami)
+- [Marine dataset (default setting not pooled)](https://usegalaxy.eu/u/santinof/h/marine-dataset-default-setting-not-pooled) &nbsp; [Repository](Result/CAMI_AMBER_result_own)
+- [Marine dataset (DAS Tool high score)](https://usegalaxy.eu/u/santinof/h/marine-dataset-das-tool-adjusted-high-score-threshold) &nbsp; [Repository](Result/CAMI_AMBER_result_with_das_tool_high_treshold)
+- [Marine dataset (DAS Tool low score)](https://usegalaxy.eu/u/santinof/h/marine-dataset-das-tool-adjusted-low-score-threshold) &nbsp; [Repository](Result/CAMI_AMBER_result_with_das_tool_low_treshold)
+- [Marine dataset (Binner adjusted)](https://usegalaxy.eu/u/santinof/h/marine-dataset-binner-adjusted) &nbsp; [Repository](Result/CAMI_AMBER_result_with_binner_adjusted)
+- [Marine dataset (default setting pooled)](https://usegalaxy.eu/u/santinof/h/marine-dataset-default-setting-pooled) &nbsp; [Repository](Result/CAMI_AMBER_result_pooled_dataset)
+- [CAMI Result for marine dataset](https://usegalaxy.eu/u/santinof/h/cami-marine-dataset-eval) &nbsp; [Repository](Result/CAMI_AMBER_result_cami)
 
 
 ## Links to open HTML files in the result folders
