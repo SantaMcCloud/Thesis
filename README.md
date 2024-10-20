@@ -26,4 +26,4 @@ Links:
 
 ## Links to open HTML files in the result folders
  
-[test](Result/CAMI_AMBER_result_cami/CAMI_AMBER_result/CAMI_AMBER__HTML/CAMI_AMBER__HTML.html)
+[test](https://github.com/SantaMcCloud/Thesis/blob/master/Result/CAMI_AMBER_result_cami/CAMI_AMBER_result/CAMI_AMBER__HTML/CAMI_AMBER__HTML.html)
