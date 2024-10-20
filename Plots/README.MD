@@ -1,4 +1,4 @@
-### Plots generate for this thesis
+# Plots generate for this thesis
 
 ![binner_ari](binner_ari.png)
 
