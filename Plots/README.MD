@@ -1,5 +1,15 @@
 # Plots generate for this thesis
 
+## Genome Binning (CAMI vs pooled vs not pooled)
+![genome_ari](genome_ari.png)
+
+![genome_completeness](genome_completeness.png)
+
+![genome_percentage](genome_percentage.png)
+
+![genome_purity](genome_purity.png)
+
+
 ## Binner compare plots
 ![binner_ari](binner_ari.png)
 
