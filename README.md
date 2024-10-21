@@ -12,7 +12,7 @@ In the directory `Plots` you can find the plots which where used in the thesis. 
 In the directory `Result` there you can find 2 more directory. First directory named `CAMI_AMBER_result_cami` contain all result from the cami second challenge which was used to create the plots used in the thesis. The second directory named `CAMI_AMBER_result_own` contain the result of my own workflow which was use to create the plots used in the thesis. NOTE: maybe not all result was used for plotting graphics! Both directory contain a directory with the name `CAMI_AMBER_result` contain all important result from CAMI AMBER. The second directory in both main directory named `copied_result_from_the_html`, contain some result which are not outputted in any way from CAMI AMBER so it was taken from the `CAMI_AMBER_HTML.html` side to use them to create the plots.
 
 ## Links
-Links:
+Links to Galaxy and to the repositories:
 
 - [Main workflow](https://usegalaxy.eu/u/santinof/w/mags-taxonomic-binning-evaluation)
 - [GTDB-Tk subworkflow](https://usegalaxy.eu/u/santinof/w/gtdb-tk-subworkflow)
@@ -24,7 +24,7 @@ Links:
 - [CAMI Result for marine dataset](https://usegalaxy.eu/u/santinof/h/cami-marine-dataset-eval) &nbsp; [Repository](Result/CAMI_AMBER_result_cami)
 
 
-## Links to open HTML files in the result folders
+## Links to open HTML files from the result folders
  
 - [Marine dataset (default setting not pooled) HTML](https://santamccloud.github.io/CAMI_AMBER_result_own/CAMI_AMBER_result/CAMI_AMBER__HTML/CAMI_AMBER__HTML.html)
 - [Marine dataset (DAS Tool high score) HTML](https://santamccloud.github.io/CAMI_AMBER_result_with_das_tool_high_treshold/CAMI_AMBER_result/CAMI_AMBER__HTML/CAMI_AMBER__HTM.html)
