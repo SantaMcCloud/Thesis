@@ -20,8 +20,6 @@
 ![binner_purity](binner_purity.png)
 
 ## Recover genomes plot
-![recover_genome](https://github.com/SantaMcCloud/Thesis/blob/master/Plots/recover_genomes_2.png)
-
 ![recover_genome](https://github.com/SantaMcCloud/Thesis/blob/master/Plots/recover_genomes.png)
 
 ## Taxonomic compare between CAMI and Workflow
