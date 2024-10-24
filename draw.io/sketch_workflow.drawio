@@ -1,0 +1,171 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.16">
+  <diagram name="Seite-1" id="YO2VrxU77anebfD1-S-k">
+    <mxGraphModel dx="1649" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-6" value="tsv file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;horizontal=0;" parent="1" target="ytF4aXZPdlztMgyRaHa9-4" edge="1">
+          <mxGeometry x="-0.6298" y="8" relative="1" as="geometry">
+            <mxPoint x="-223" y="99" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-1" value="Gold Standard&lt;div&gt;Binning&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.25899993896484375;" parent="1" vertex="1">
+          <mxGeometry x="-278" y="28" width="150" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-10" value="Either one of them or both are inputs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.338;exitY=1.029;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitPerimeter=0;" parent="1" source="ytF4aXZPdlztMgyRaHa9-2" target="ytF4aXZPdlztMgyRaHa9-9" edge="1">
+          <mxGeometry x="0.3745" y="-14" relative="1" as="geometry">
+            <mxPoint x="14" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-14" value="fastq.gz files" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.559;exitY=1.006;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitPerimeter=0;horizontal=0;" parent="1" source="ytF4aXZPdlztMgyRaHa9-2" target="ytF4aXZPdlztMgyRaHa9-12" edge="1">
+          <mxGeometry x="-0.5253" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="266" y="397" />
+              <mxPoint x="131" y="397" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-2" value="Reads (split in&lt;div&gt;forward and&amp;nbsp;&lt;/div&gt;&lt;div&gt;reverse)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="181" y="28" width="152" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-8" value="fasta file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.339;exitY=1.006;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitPerimeter=0;" parent="1" source="ytF4aXZPdlztMgyRaHa9-3" target="ytF4aXZPdlztMgyRaHa9-4" edge="1">
+          <mxGeometry x="-0.359" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8" y="181" />
+              <mxPoint x="-223" y="181" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ytF4aXZPdlztMgyRaHa9-3" target="ytF4aXZPdlztMgyRaHa9-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-3" value="Assembly" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="-44" y="28" width="152" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-35" value="tsv file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;horizontal=0;" parent="1" source="ytF4aXZPdlztMgyRaHa9-4" target="ytF4aXZPdlztMgyRaHa9-32" edge="1">
+          <mxGeometry x="-0.1586" y="-11" relative="1" as="geometry">
+            <mxPoint x="-149" y="1236" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-223" y="1257" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-4" value="AMBER add&amp;nbsp;&lt;div&gt;length column&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-273" y="304" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="ytF4aXZPdlztMgyRaHa9-4" target="ytF4aXZPdlztMgyRaHa9-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="ytF4aXZPdlztMgyRaHa9-9" target="ytF4aXZPdlztMgyRaHa9-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-9" value="Needed Preprocessing for Binner" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="81" y="263" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="ytF4aXZPdlztMgyRaHa9-12" target="ytF4aXZPdlztMgyRaHa9-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-22" value="fasta files" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;verticalAlign=middle;horizontal=1;" parent="1" source="ytF4aXZPdlztMgyRaHa9-12" target="ytF4aXZPdlztMgyRaHa9-21" edge="1">
+          <mxGeometry x="-0.0088" y="13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-24" value="fasta file(s)" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;horizontal=0;" parent="1" source="ytF4aXZPdlztMgyRaHa9-17" target="ytF4aXZPdlztMgyRaHa9-20" edge="1">
+          <mxGeometry x="0.06" y="-11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-2" value="tsv file(s) with the help of Regex and column cutting&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="ytF4aXZPdlztMgyRaHa9-17" target="fwiitoMSYDo4QRJMc4nd-1" edge="1">
+          <mxGeometry x="-0.0048" y="12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-17" value="GTDB-Tk" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="81" y="699" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-34" value="tsv file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="ytF4aXZPdlztMgyRaHa9-20" target="ytF4aXZPdlztMgyRaHa9-32" edge="1">
+          <mxGeometry x="0.0155" y="-13" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="131" y="1164" />
+              <mxPoint x="-55" y="1164" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-20" value="Biobox_add_taxid" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="81" y="959" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-26" value="tsv file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;horizontal=0;" parent="1" source="ytF4aXZPdlztMgyRaHa9-21" target="ytF4aXZPdlztMgyRaHa9-20" edge="1">
+          <mxGeometry x="-0.7393" y="12" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="318" y="833" />
+              <mxPoint x="156" y="833" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-31" value="&lt;div&gt;*&lt;/div&gt;CONCOCT&lt;div&gt;MetaBAT2&lt;/div&gt;&lt;div&gt;SemiBin&lt;/div&gt;&lt;div&gt;DAS Tool&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="461" width="120" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-21" value="Convert to biobox" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="268" y="462" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-36" value="Can use multiple Binners as input&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-42" y="1272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-7" value="tsv file(s)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;horizontal=0;" parent="1" source="fwiitoMSYDo4QRJMc4nd-1" target="fwiitoMSYDo4QRJMc4nd-5" edge="1">
+          <mxGeometry x="-0.2" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-1" value="NCBI-GTDB map" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="388" y="699" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-4" value="implement in galaxy" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;horizontal=0;" parent="1" source="fwiitoMSYDo4QRJMc4nd-3" target="fwiitoMSYDo4QRJMc4nd-1" edge="1">
+          <mxGeometry x="0.0066" y="12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GTDB&amp;nbsp; bacteria and&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;archaea metadata (V 214.1)&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="384.25" y="461" width="107.5" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-12" value="Binner*" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="81" y="462" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ytF4aXZPdlztMgyRaHa9-32" value="CAMI Amber" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="1232" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-8" value="tsv file(s)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fwiitoMSYDo4QRJMc4nd-5" target="ytF4aXZPdlztMgyRaHa9-20" edge="1">
+          <mxGeometry x="-0.1838" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-5" value="name2taxid" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="388" y="959" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-6" value="tsv file(s)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.002;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;horizontal=0;" parent="1" source="fwiitoMSYDo4QRJMc4nd-1" target="ytF4aXZPdlztMgyRaHa9-20" edge="1">
+          <mxGeometry x="0.0547" y="11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-11" value="implement in galaxy" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fwiitoMSYDo4QRJMc4nd-10" target="fwiitoMSYDo4QRJMc4nd-5" edge="1">
+          <mxGeometry x="-0.0338" y="-13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-12" value="Only required if CAMI amber should evaluate taxonomy&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.992;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="fwiitoMSYDo4QRJMc4nd-10" target="ytF4aXZPdlztMgyRaHa9-32" edge="1">
+          <mxGeometry x="0.1179" y="-12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwiitoMSYDo4QRJMc4nd-10" value="NCBI database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="531" y="710" width="93" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

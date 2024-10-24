@@ -13,11 +13,9 @@
 ## Binner compare plots
 ![binner_ari](binner_ari.png)
 
-![binner_completeness](binner_completeness.png)
+![binner_completeness_and_purity](binner_completeness_and_purity.png)
 
 ![binner_percentage](binner_percentage.png)
-
-![binner_purity](binner_purity.png)
 
 ## Recover genomes plot
 ![recover_genome](https://github.com/SantaMcCloud/Thesis/blob/master/Plots/recover_genomes.png)
